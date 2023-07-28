@@ -1,0 +1,129 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    width: auto;
+}
+
+.first-div{
+    background-color: pink;
+    display: flex;
+    width: auto;
+}
+
+.con{
+   
+}
+
+h1{
+    font-size: 68px;
+}
+  /* main work */
+
+.text{
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.flex{
+    display: flex;
+    /* justify-content: space-evenly; */
+    width: auto;
+}
+
+.color-text{
+    text-align: center;
+}
+
+
+.flower2{
+    background-color: pink;
+    border-radius: 300px 300px 0px 0px;
+    height: 500px; 
+    width: 350px;
+    margin-right: 50px;
+}
+
+.second{
+    display: flex;
+    background-color: rgb(243, 212, 241);
+    /* justify-content: space-evenly; */
+    width: auto;
+}
+
+.group{
+    margin:100px ;
+    text-align: center;
+}
+
+.what{
+    margin-top: 50px;
+    display: flex;
+    /* justify-content: space-evenly; */
+    background-color: papayawhip;
+    width: auto;
+}
+
+h2{
+    font-size: 40px;
+}
+
+button{
+    background-color: red;
+    border-radius: 5px;
+    height: 40px;
+    width: 80px;
+}
+
+.two{
+    text-align: center;
+}
+
+.go{
+    text-align: center;
+}
+
+.four{
+    display: flex;
+    /* justify-content: space-evenly; */
+    width: 100%;
+}
+
+.flower3{
+   height: 300px;
+   width: 300px;
+    
+}
+
+.no{
+    height: 440px;
+    width: auto;
+    background-image: url(Rectangle\ 9.png);
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 50px;
+   
+}
+  
+.ass{
+    /* position: absolute; */
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+.footer{
+    color: white;
+    
+    background-color: black;
+    height: 500px;
+    width: auto;
+}
+
+.add{
+    text-align: center;
+   margin-left: 300px;
+    position: absolute;
+    margin-top: 200px;
+}
